@@ -7,7 +7,7 @@ Using the same password will decrypt the photo back to original
 
 All above files must be downloaded
 
-Current system works only within Linux environment.
+Current program works only within Linux environment.
 
 SFML libraries must be appropriately installed: https://www.sfml-dev.org/tutorials/2.5/start-linux.php
 
@@ -37,6 +37,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Program will not remove original photo for encryption. 
 
-Do not delete in the even decryption is not possible. 
+Do not delete in the event decryption is not possible. 
 
 Author not liable for lost data
