@@ -32,3 +32,11 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Version
 
 (latest) v1 : Sep 2021
+
+## Disclaimer
+
+Program will not remove original photo for encryption. 
+
+Do not delete in the even decryption is not possible. 
+
+Author not liable for lost data
